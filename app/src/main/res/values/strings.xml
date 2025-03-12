@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">practice1</string>
+
+    <string name="name">Persephone Trigilio</string>
+    <string name="title">Game Developer</string>
+    <string name="phone">+1 (814) 897-6150</string>
+    <string name="email">properpersephone@gmail.com</string>
+    <string name="address">4148 Irene Drive Erie, PA 16510</string>
+</resources>
